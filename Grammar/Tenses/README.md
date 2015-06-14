@@ -13,3 +13,11 @@
 * du hattest gelernt
 * du wirst lernen
 * du wirst gelernt haben
+
+## [现在时](Present-Tense.md)
+现在时是德语中最常用的时态。大多数情况下我们使用现在时来谈论当前或者未来。
+
+示例：
+
+* ich lerne
+* ich sehe
