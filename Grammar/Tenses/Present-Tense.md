@@ -17,3 +17,33 @@ Nächsten Sonntag um 14 Uhr **hat** seine Mannschaft ein wichtiges Spiel. 下周
 	* Er spielt schon seit fünf Jahren Fußball. 他踢足球已经有五年了。
 * 描述已经计划或者协议的某个发生在未来的动作
 	* Nächsten Sonntag um 14 Uhr **hat** seine Mannschaft ein wichtiges Spiel. 下周日下午两点他的球队有一场重要的比赛。
+	
+## 构造
+我们先移除动词原形的词尾 **en**，然后再加上下列词尾：
+
+|人称   |词尾   |示例   |
+|---|---|---|
+|第一人称单数（ich）   |-e   |ich lern**e**   |
+|第二人称单数（du）   |-st   |du lern**st**   |
+|第三人称单数（er/sie/es/man）   |-t   |er lern**t**   |
+|第一人称复数（wir）   |-en   |wir lern**en**   |
+|第二人称复数（ihr）   |-t   |ihr lern**t**   |
+|第三人称复数或者第二人称单数的尊称（sie/Sie）   |-en   |sie/Sie lern**en**   |
+
+动词 **sein** 和 **haben** 属于不规则变化：
+
+|人称   |sein   |haben   |
+|---|---|---|
+|第一人称单数（ich）   |ich **bin**   |ich **habe**   |
+|第二人称单数（du）   |du **bist**   |du **hast**   |
+|第三人称单数（er/sie/es/man）   |er **ist**   |er **hat**   |
+|第一人称复数（wir）   |wir **sind**   |wir **haben**   |
+|第二人称复数（ihr）   |ihr **seid**   |ihr **habt**   |
+|第三人称复数或者第二人称单数的尊称（sie/Sie）   |sie/Sie **sind**   |sie/Sie **haben**   |
+
+### 例外
+* 如果动词的词干是以 *d/t* 结尾的，那么在动词变位的时候需要在 *st* 和 *t* 前面添加一个 *e*。但是如果在变位的过程中发生了元音的改变，那么上述规则就不再适用（在这种情况下，第三人称单数的变位甚至有可能不需要加 *t*）。
+	* 示例：warten - du wart**e**st, er wart**e**t, ihr wart**e**t
+	* 例外：
+		* laden - du lädst, er lädt, ihr lad**e**t（元音从 a 变成了 ä，du 和 er 变位时不需要额外加 e）
+		* halten - du hältst, er hält, ihr halt**e**t（er 变位不需要加 t）
