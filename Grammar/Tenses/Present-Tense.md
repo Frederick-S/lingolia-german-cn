@@ -47,3 +47,15 @@ Nächsten Sonntag um 14 Uhr **hat** seine Mannschaft ein wichtiges Spiel. 下周
 	* 例外：
 		* laden - du lädst, er lädt, ihr lad**e**t（元音从 a 变成了 ä，du 和 er 变位时不需要额外加 e）
 		* halten - du hältst, er hält, ihr halt**e**t（er 变位不需要加 t）
+* 如果动词的词干是以 *s/ß/x/z* 结尾，那么在第二人称单数变位的时候需要移除 *st* 中的 *s*。
+	* 示例：tanzen - du tanzt（而不是 tanzst）
+* 如果动词的词干是以 *ie* 结尾，那么在进行 -e/-en 变位时需要移除词尾中的 *e*。
+	* 示例：knien - ich knie, wir knie**n**, sie knie**n**（而不是 kniee，knieen）
+* 动词的词干会在某些强变化动词中发生改变
+	* 示例：lesen - ich lese, du l**ie**st, er l**ie**st, wir lesen, ihr lest, sie lesen
+* 如果动词的原形是以 *eln/ern* 结尾， 那么在变位时需要移除词尾中的 *e*。如果动词原形是以 *eln* 结尾，那么第一人称单数变位的时候可以保留词干中的 *e*。
+	* 示例：
+		* lächeln - ich läch(**e**)le, wir lächel**n**, sie lächel**n**
+		* wandern - ich wandere, wir wander**n**, sie wander**n**
+
+## [练习](https://deutsch.lingolia.com/en/grammar/tenses/present-tense/exercises)
