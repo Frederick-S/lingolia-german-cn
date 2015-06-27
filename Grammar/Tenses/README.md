@@ -21,3 +21,11 @@
 
 * ich lerne
 * ich sehe
+
+## [过去时](Simple-Past.md)
+过去时用于描述过去发生的事实或者动作。在故事和报道中会用到这一时态，尤其是在写作中。
+
+示例：
+
+* ich lernte
+* ich sah
