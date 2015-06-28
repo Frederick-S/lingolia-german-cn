@@ -22,6 +22,14 @@
 * ich lerne
 * ich sehe
 
+## [现在完成时](Present-Perfect.md)
+通过现在完成时，我们用于描述过去发生的动作，并关注于动作产生的结果。
+
+示例：
+
+* ich habe gelernt
+* ich habe gesehen
+
 ## [过去时](Simple-Past.md)
 过去时用于描述过去发生的事实或者动作。在故事和报道中会用到这一时态，尤其是在写作中。
 

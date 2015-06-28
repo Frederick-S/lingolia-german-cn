@@ -11,7 +11,7 @@ Mit dem Fahrrad **fuhr** ich auf dem Elbe-Radweg von Hamburg bis Dresden. Die St
 ## 用法
 * 描述过去发生的动作
 	* Im letzten Jahr machte ich Urlaub in Deutschland. 我去年在德国度假。
-	* Mit dem Fahrrad fuhr ich von Hamburg bis Dresden. 我骑车从汉堡到德雷斯顿。
+	* Mit dem Fahrrad **fuhr** ich von Hamburg bis Dresden. 我骑车从汉堡到德雷斯顿。
 * 描述过去的事实或状态
 	* Die Strecke war fantastisch und ich hatte tolles Wetter. 这段路程真是美妙极了，而且天气也很好。
 
