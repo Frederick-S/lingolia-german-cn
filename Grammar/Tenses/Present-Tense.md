@@ -17,7 +17,7 @@ Nächsten Sonntag um 14 Uhr **hat** seine Mannschaft ein wichtiges Spiel. 下周
 	* Er spielt schon seit fünf Jahren Fußball. 他踢足球已经有五年了。
 * 描述已经计划或者协议的某个发生在未来的动作
 	* Nächsten Sonntag um 14 Uhr **hat** seine Mannschaft ein wichtiges Spiel. 下周日下午两点他的球队有一场重要的比赛。
-	
+
 ## 构造
 我们先移除动词原形的词尾 **en**，然后再加上下列词尾：
 

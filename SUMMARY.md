@@ -5,6 +5,7 @@
     	* [现在时](Grammar/Tenses/Present-Tense.md)
     	* [现在完成时](Grammar/Tenses/Present-Perfect.md)
     	* [过去时](Grammar/Tenses/Simple-Past.md)
+        * [过去完成时](Grammar/Tenses/Past-Perfect.md)
 * [词汇](Vocabulary/README.md)
 * [写作](Writing-School/README.md)
 * [地域信息](Regional-Information/README.md)

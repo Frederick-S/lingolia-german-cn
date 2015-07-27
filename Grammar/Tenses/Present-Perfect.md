@@ -16,10 +16,10 @@ Er **hat sich vorgenommen**, jetzt immer so ordentlich zu sein. Aber bis nächst
 		* Gestern **hat** Michael sein Büro **aufgeräumt**. 昨天 Michael 整理了他的办公室。（结果：办公室现在很干净）
 		* Er **hat sich vorgenommen**, jetzt immer so ordentlich zu sein. 他之前就决定这么做了，让办公室像现在这样井然有序。（结果：他再也不想让办公室乱糟糟的了）
 * 描述某个动作会在未来的某个特定的时间点完成（必须指明未来的某个时间点，否则就是用将来完成时）
-	* 示例：Bis nächste Woche **hat** er das bestimmt wieder **vergessen**. 到下周的时候他肯定又会忘记要整理。 
+	* 示例：Bis nächste Woche **hat** er das bestimmt wieder **vergessen**. 到下周的时候他肯定又会忘记要整理。
 
 ## 构造
-现在完成时由主动词 sein 和 haben 的现在时（[sein 和 haben 的用法](https://deutsch.lingolia.com/en/grammar/verbs/sein-haben)）以及动词的过去分词构成。
+现在完成时由助动词 sein 和 haben 的现在时（[sein 和 haben 的用法](https://deutsch.lingolia.com/en/grammar/verbs/sein-haben)）以及动词的过去分词构成。
 
 <table>
     <tr>

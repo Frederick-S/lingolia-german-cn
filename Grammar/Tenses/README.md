@@ -37,3 +37,11 @@
 
 * ich lernte
 * ich sah
+
+## [过去完成时](Past-Perfect.md)
+当我们在叙述过去发生的一个故事时（使用过去时），如果想要描述在过去之前发生的动作，就需要用到过去完成时。
+
+示例：
+
+* ich hatte gelernt
+* ich hatte gesehen
