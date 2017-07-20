@@ -1,5 +1,7 @@
 # 在 Lingolía 学习德语
 ## 欢迎来到 Lingolía 德语学习网站
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Frederick-S/lingolia-german-cn.svg)](https://greenkeeper.io/)
 作为9000万人的母语，德语是世界上最重要的10种语言之一，同时，在欧洲所有作为第一或者第二语言的语言中，德语是口语中最为广泛使用的语言。
 
 大部分以德语为母语的人生活在德国，奥地利和瑞士。
